@@ -1,1 +1,1 @@
-# Wait-Management-System
+It was a group project for my final year capstone subject. The code is quite messy since we don't have much time to sort it out. I want to improve the code to make the code clean and tidy. I also add my own idea into it which didn't come up during the brain storm of the project.
